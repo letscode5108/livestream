@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+*.env
+venv/
+backend/alembic/env.py
+
+
+
+env.py
+# IDE files
+.vscode/
+.idea/
+
+# Database
+*.db
+
+# Logs
+*.log
